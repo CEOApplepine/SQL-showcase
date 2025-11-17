@@ -1,0 +1,11 @@
+order_id,customer_id,customer_name,segment,product,order_date,quantity,price
+1001,501,John Smith,Regular,Backpack,2023-01-05,1,49.99
+1002,502,Sarah Lee,Premium,Trekking Poles,2023-01-06,2,89.99
+1003,503,David Kim,Regular,Hiking Boots,2023-01-08,1,129.99
+1004,504,Ana Perez,Premium,Hiking Boots,2023-02-12,1,129.99
+1005,501,John Smith,Regular,Tent,2023-03-02,1,199.99
+1006,505,Emily Clark,Regular,Backpack,2023-03-15,2,49.99
+1007,502,Sarah Lee,Premium,Climbing Rope,2023-04-01,1,139.99
+1008,503,David Kim,Regular,Camping Stove,2023-04-09,1,59.99
+1009,504,Ana Perez,Premium,Hiking Jacket,2023-05-18,1,149.99
+1010,505,Emily Clark,Regular,Trekking Poles,2023-05-19,1,89.99
